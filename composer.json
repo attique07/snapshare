@@ -1,4 +1,5 @@
 {
+    "beyondcode/laravel-websockets": "*" ,
     "name": "shaunsocial/core",
     "type": "project",
     "description": "ShaunSocial core",
